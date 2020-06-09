@@ -1,0 +1,4 @@
+ID,Connection,Task,Hb,Cohfft,CohMean,CohSTD,PhaseMean,AbsPhaseMean,PhaseSTD
+subject3_day1,Region1 -> Region2,Rest,HbO,0.83515,0.84848,0.024522,0.13418,0.13418,0.033325
+subject3_day1,Region1 -> Region2,Rest,Hb,0.50834,0.66823,0.026824,0.10803,0.11043,0.063059
+subject3_day1,Region1 -> Region2,Rest,THb,0.88093,0.88665,0.027138,0.12524,0.12524,0.040901
