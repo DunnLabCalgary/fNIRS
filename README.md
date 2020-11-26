@@ -66,7 +66,7 @@ All data output from the pipeline will be found here in subject-wise output fold
 The initialization phase contains the majority of setup work required for running a study. Here you will choose the desired folder outputs and build stim designs for each subject.
 
 <div align="center">
-<img src="https://github.com/carterrandall/fNIRS/blob/master/images/intialization.png" height = 400>
+<img src="https://github.com/carterrandall/fNIRS/blob/master/images/Initialization_new.png" height = 400>
 </div>
 
 
