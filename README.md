@@ -60,7 +60,7 @@ Age is used in the calculation of the lights differential path length through th
 A .sd file describing the source detector setup (probe) that was used in recording the raw data. This is typically automatically generated when recording data. If you do not have a .sd file (see Appendix **Creating a probe (.sd) file ** for instructions on how to generate one.)
 
 ### Raw Data Folder: 
-This folder should only contain the raw data .nirs or .nirx files of each subject.
+This folder should only contain the raw data .nirs files of each subject.
 
 ### Processed: 
 All data output from the pipeline will be found here in subject-wise output folders. This folder will be created for you if it doesn’t exist already and should not be renamed. 
