@@ -76,7 +76,7 @@ The initialization phase contains the majority of setup work required for runnin
 Select your data type and folders in accordance with the Required Folder Structure section. This step must be completed before anything else can be done.
 
 #### B: Initialization Table
-After selecting your raw data folder, subjects will appear in the initialization table. Here you can indicate the age of each subject under the 'Age' column. If none is specified an default age of 30 is used. Subjects must also first be initialized before and data processing. Clicking the Initialize button under the 'Action' column will open the stim builder.
+After selecting your raw data folder, subjects will appear in the initialization table. Here you can indicate the age of each subject under the 'Age' column. If none is specified a default age of 30 is used. Subjects must also first be initialized before any data processing. Clicking the Initialize button under the 'Action' column will open the stim builder. Once subjects have been initialized using the stim builder, they will be marked as such under the 'Stims Built' column.
 
 ## Using the Stim Builder
 The stim view will populate with the stim-time relation according to the subjects raw data file. Vertical blue lines represent either the start of stop of stims. Since these rarely perfectly match data collection the stim builder allows you to trim the data and or shift the start/end of stim times.
