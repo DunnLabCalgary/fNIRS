@@ -118,7 +118,7 @@ for S_count = 1:numel(Data.SOI) % SOI = subjects of interest (subjects selected 
     
     fs = 1/(X.t(2)-X.t(1)); % sampling rate
     
-    if PreUI.NIRx == 1
+    if PreUI.wl1 == 1
         X.d = X.d*10^7; % Multiply to be on same scale as TechEn so taking the log does not make negative values. Need to check and confirm this has no negative effects
     end
     
