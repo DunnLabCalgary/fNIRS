@@ -32,7 +32,7 @@ for S_count = 1:length(Data.SOI) % loop counter for all subjects selected
         if regionComparison(rc)
             
             Data.RegionalData.rc = rc;
-            [Wavelet] = ContinuousWaveletAnalysis(PostUI.FZband,Proc, Data.RegionalData, PostUI.Hemo, Rects, [procFile filesep 'Processed.mat'], sub, PostUI.WaveletFig);
+            [Wavelet] = ContinuousWaveletAnalysis(PostUI.FZband,Proc, Data.RegionalData, PostUI.Hemo, Rects, procFile, sub, PostUI.WaveletFig);
             
             Wavelet.HB = PostUI.Hemo;
             Data.RegionalData.regionNames = regionNames;
