@@ -28,7 +28,6 @@ Matlab-based user friendly Functional Near Infrared Spectroscopy Brain Imaging D
 2. Initialization:
 
 * The selected output folder should be the **fNIRS2** folder
-* The selected demographics file should be the **demo.xlsx** file
 * The Raw Data folder should be the **Data** folder
 
 Some subjects in this data set are already initialized, they will appear in the Initialized subjects list.
