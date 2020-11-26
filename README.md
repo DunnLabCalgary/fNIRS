@@ -49,9 +49,12 @@ To ensure the pipeline can locate the necessary data the following folder struct
 <img src="https://github.com/carterrandall/fNIRS/blob/master/images/folderstructure.png" height = 400>
 </div>
 
-### Demographics File: 
+### ~~Demographics File:   ~~
+#### Age is now entered in the Initialization table of the GUI.
 An optional excel file with subject demographics information in the following format: format coming soon - for now just view provided demographics file
 Age is used in the calculation of the lights differential path length through the brain. See preprocessing - converting the raw signal to concentration for more info. *If no demographics file is provided an age of 30 is assumed.*
+
+
 
 ### Probe File: 
 A .sd file describing the source detector setup (probe) that was used in recording the raw data. This is typically automatically generated when recording data. If you do not have a .sd file (see Appendix **Creating a probe (.sd) file ** for instructions on how to generate one.)
@@ -70,7 +73,7 @@ The initialization phase contains the majority of setup work required for runnin
 </div>
 
 
-#### A: Select Data Type
+#### 1: Select Data Type
 Select your data type and folders in accordance with the Required Folder Structure section. This step must be completed before anything else can be done.
 
 #### D: Initialized Subjects
