@@ -16,6 +16,7 @@ Matlab-based user friendly Functional Near Infrared Spectroscopy Brain Imaging D
 ##### Required Folder Structure
  ##### Initialization
   ##### Using the Stim Builder
+##### Preprocessing
 ##### Postprocessing
   ##### Channel Selection
 ##### Analysis
