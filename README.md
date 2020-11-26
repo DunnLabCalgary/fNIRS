@@ -146,7 +146,6 @@ Decide whether to perform manual or automated motion correction. If automated, a
 #### D: Data Visualization:
 
 Select which figures you want for output.
-ADD LINK Jump to appendix for examples of each figure 
 
 #### E: Run Preprocessing:
 
